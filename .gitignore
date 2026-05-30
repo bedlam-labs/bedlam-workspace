@@ -1,0 +1,14 @@
+node_modules/
+
+# Non-workspace directories (separate repos, not submodules)
+bedwars-plugin/
+bedwars-server/
+bedlam-labs.github.io/
+com/
+dashboard/
+research/
+research-plugin/
+rl-combat/
+rl-environment/
+shared/
+.github-private/
