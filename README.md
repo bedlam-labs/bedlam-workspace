@@ -1,4 +1,4 @@
-# bedwars-agents
+# Bedlam
 
 Research platform for studying emergent behavior in competitive multi-agent LLM environments, built on Minecraft Bedwars.
 
