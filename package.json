@@ -7,10 +7,15 @@
     "setup:agent": "git submodule update --init packages/agent packages/mineflayer-pathfinder packages/prismarine-viewer && pnpm install",
     "setup:test-suite": "git submodule update --init packages/mineflayer-test-suite packages/prismarine-viewer && pnpm install",
     "test": "pnpm --filter bedwars-agent test",
+    "test:agent": "pnpm --filter bedwars-agent exec mineflayer-test-suite",
     "build": "pnpm -r build",
+    "build:watch": "concurrently -n agent,viewer \"pnpm --filter bedwars-agent build:watch\" \"pnpm --filter prismarine-viewer build:watch\"",
     "commit:agent": "cd packages/agent && git add -A && git commit && cd ../.. && git add packages/agent && git commit -m 'chore: bump agent'",
     "commit:pathfinder": "cd packages/mineflayer-pathfinder && git add -A && git commit && cd ../.. && git add packages/mineflayer-pathfinder && git commit -m 'chore: bump mineflayer-pathfinder'",
     "commit:test-suite": "cd packages/mineflayer-test-suite && git add -A && git commit && cd ../.. && git add packages/mineflayer-test-suite && git commit -m 'chore: bump mineflayer-test-suite'",
     "commit:viewer": "cd packages/prismarine-viewer && git add -A && git commit && cd ../.. && git add packages/prismarine-viewer && git commit -m 'chore: bump prismarine-viewer'"
+  },
+  "devDependencies": {
+    "concurrently": "^10.0.0"
   }
 }

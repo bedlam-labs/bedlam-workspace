@@ -1,0 +1,1452 @@
+{
+  "/home/atran/Documents/Projects/bedwars-agents/package.json": {
+    "mtime": 1780129745.288448,
+    "ast_hash": "dd43435c6f98acbfa2f1d4e6a9ba5d7f",
+    "semantic_hash": "dd43435c6f98acbfa2f1d4e6a9ba5d7f"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/agent/coordinator.ts": {
+    "mtime": 1780098516.000336,
+    "ast_hash": "0b40ceeef245fa2a67fd112681453c69",
+    "semantic_hash": "0b40ceeef245fa2a67fd112681453c69"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/agent/index.ts": {
+    "mtime": 1780098516.0004628,
+    "ast_hash": "e96d2778d5004e51df62808dea6d158d",
+    "semantic_hash": "e96d2778d5004e51df62808dea6d158d"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/agent/tsconfig.json": {
+    "mtime": 1780098518.1153474,
+    "ast_hash": "1776a55af317833253076eac431a95a2",
+    "semantic_hash": "1776a55af317833253076eac431a95a2"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/agent/package.json": {
+    "mtime": 1780130830.059258,
+    "ast_hash": "f57c685d3233eb6fe3bb3b2067808c4f",
+    "semantic_hash": "f57c685d3233eb6fe3bb3b2067808c4f"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/agent/__tests__/BreakBlocks.test.ts": {
+    "mtime": 1780098515.9991996,
+    "ast_hash": "d7dd6f5b348bb8337faf6049e8ca5285",
+    "semantic_hash": "d7dd6f5b348bb8337faf6049e8ca5285"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/agent/__tests__/BuyItem.test.ts": {
+    "mtime": 1780098515.999301,
+    "ast_hash": "960de309688bac5be5d3559cc259a40c",
+    "semantic_hash": "960de309688bac5be5d3559cc259a40c"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/agent/__tests__/Chat.test.ts": {
+    "mtime": 1780098515.999301,
+    "ast_hash": "737b1b7105799b2dec8815c2e2e6de70",
+    "semantic_hash": "737b1b7105799b2dec8815c2e2e6de70"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/agent/__tests__/ConsumeItem.test.ts": {
+    "mtime": 1780098515.999301,
+    "ast_hash": "588662ebfd70bd8721785c509bb07fd0",
+    "semantic_hash": "588662ebfd70bd8721785c509bb07fd0"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/agent/__tests__/MoveTo.test.ts": {
+    "mtime": 1780098515.9995153,
+    "ast_hash": "5c2a39519a6d7a3548c0ca486c19f1dc",
+    "semantic_hash": "5c2a39519a6d7a3548c0ca486c19f1dc"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/agent/__tests__/PlaceBlocks.test.ts": {
+    "mtime": 1780098515.9995894,
+    "ast_hash": "a38ae2530ec254f500bd193ec129b358",
+    "semantic_hash": "a38ae2530ec254f500bd193ec129b358"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/agent/__tests__/StartCombat.test.ts": {
+    "mtime": 1780098515.999688,
+    "ast_hash": "fc3b7fdea331408e4607872900eb6cff",
+    "semantic_hash": "fc3b7fdea331408e4607872900eb6cff"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/agent/__tests__/integration/MoveTo.integration.test.ts": {
+    "mtime": 1780133391.8211207,
+    "ast_hash": "c90f73eb2a4f9559a982f8c11b765f9f",
+    "semantic_hash": "c90f73eb2a4f9559a982f8c11b765f9f"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/agent/__tests__/integration/scenarios/untitleddwssa.scenario.json": {
+    "mtime": 1780176956.5262678,
+    "ast_hash": "d2e1a7726c26d49adba9f64424798724",
+    "semantic_hash": "d2e1a7726c26d49adba9f64424798724"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/agent/__tests__/integration/scenarios/untitled.scenario.json": {
+    "mtime": 1780188307.0108464,
+    "ast_hash": "d23e317a28e8e6cc64a905e5785d039a",
+    "semantic_hash": "d23e317a28e8e6cc64a905e5785d039a"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/agent/__tests__/integration/scenarios/Test.scenario.json": {
+    "mtime": 1780214007.7010505,
+    "ast_hash": "ef1858b237643a0a6413228479584698",
+    "semantic_hash": "ef1858b237643a0a6413228479584698"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/agent/agent/bot.ts": {
+    "mtime": 1780098515.999688,
+    "ast_hash": "a3c83f7008fd1ff443c916cd6e6e7836",
+    "semantic_hash": "a3c83f7008fd1ff443c916cd6e6e7836"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/agent/agent/tools/BreakBlocks.ts": {
+    "mtime": 1780098515.9998686,
+    "ast_hash": "941df1bd6c712badc0f4e579195d733f",
+    "semantic_hash": "941df1bd6c712badc0f4e579195d733f"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/agent/agent/tools/BridgeTo.ts": {
+    "mtime": 1780098515.999969,
+    "ast_hash": "590d3386fc5805d2b24558fb5dcf4752",
+    "semantic_hash": "590d3386fc5805d2b24558fb5dcf4752"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/agent/agent/tools/BuyItem.ts": {
+    "mtime": 1780098516.0000372,
+    "ast_hash": "6a6dd0f62d4df7d78590343ef0c2e51d",
+    "semantic_hash": "6a6dd0f62d4df7d78590343ef0c2e51d"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/agent/agent/tools/Chat.ts": {
+    "mtime": 1780098516.0000372,
+    "ast_hash": "3066bb0d36a6222e3d60d460a7f69c9b",
+    "semantic_hash": "3066bb0d36a6222e3d60d460a7f69c9b"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/agent/agent/tools/ConsumeItem.ts": {
+    "mtime": 1780098516.0001316,
+    "ast_hash": "242106dab96b024282714dec8ac0cf59",
+    "semantic_hash": "242106dab96b024282714dec8ac0cf59"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/agent/agent/tools/PlaceBlocks.ts": {
+    "mtime": 1780098516.0002358,
+    "ast_hash": "d25901abf549deec3000d294deed2233",
+    "semantic_hash": "d25901abf549deec3000d294deed2233"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/agent/agent/tools/StartCombat.ts": {
+    "mtime": 1780098516.0002904,
+    "ast_hash": "529c34b40fd7d6bb0bf1b58896523c33",
+    "semantic_hash": "529c34b40fd7d6bb0bf1b58896523c33"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/agent/agent/tools/types.ts": {
+    "mtime": 1780098516.000336,
+    "ast_hash": "3061d0a885c39f7931d9645a4e326afd",
+    "semantic_hash": "3061d0a885c39f7931d9645a4e326afd"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/agent/agent/tools/MoveTo.ts": {
+    "mtime": 1780128906.924468,
+    "ast_hash": "bcd68323e372599f87e03ffc6b971225",
+    "semantic_hash": "bcd68323e372599f87e03ffc6b971225"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-pathfinder/index.d.ts": {
+    "mtime": 1780098520.4272022,
+    "ast_hash": "b3ac3159a9572e4650aaf50d1fe177e7",
+    "semantic_hash": "b3ac3159a9572e4650aaf50d1fe177e7"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-pathfinder/package.json": {
+    "mtime": 1780098520.4283824,
+    "ast_hash": "d58d3e5a6b66657430d19beaf616246e",
+    "semantic_hash": "d58d3e5a6b66657430d19beaf616246e"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-pathfinder/index.js": {
+    "mtime": 1780130069.7110057,
+    "ast_hash": "5b56b5a3ed310b09e117010abf3d1b27",
+    "semantic_hash": "5b56b5a3ed310b09e117010abf3d1b27"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-pathfinder/examples/bench.js": {
+    "mtime": 1780098520.4252117,
+    "ast_hash": "ef22093463b8332362a625271c092f9a",
+    "semantic_hash": "ef22093463b8332362a625271c092f9a"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-pathfinder/examples/blockInteraction.js": {
+    "mtime": 1780098520.4253483,
+    "ast_hash": "eaba6d8457cef1763895d96d305b9281",
+    "semantic_hash": "eaba6d8457cef1763895d96d305b9281"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-pathfinder/examples/callback.js": {
+    "mtime": 1780098520.4254594,
+    "ast_hash": "e43af033186f2290c2d2d5d50c78c4d6",
+    "semantic_hash": "e43af033186f2290c2d2d5d50c78c4d6"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-pathfinder/examples/chaining-goals.js": {
+    "mtime": 1780098520.4255292,
+    "ast_hash": "5e3f6d878cdad2684b99cd7c2a13b24d",
+    "semantic_hash": "5e3f6d878cdad2684b99cd7c2a13b24d"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-pathfinder/examples/example.js": {
+    "mtime": 1780098520.4255292,
+    "ast_hash": "91e09781396ceb7396bba8f56b955849",
+    "semantic_hash": "91e09781396ceb7396bba8f56b955849"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-pathfinder/examples/exclusionArea.js": {
+    "mtime": 1780098520.42579,
+    "ast_hash": "3f1082b6317fc4f60349685907e158d3",
+    "semantic_hash": "3f1082b6317fc4f60349685907e158d3"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-pathfinder/examples/movements.js": {
+    "mtime": 1780098520.4258754,
+    "ast_hash": "e988b2486dd658b8e9ac12a5aa0a7e28",
+    "semantic_hash": "e988b2486dd658b8e9ac12a5aa0a7e28"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-pathfinder/examples/multiple.js": {
+    "mtime": 1780098520.4259403,
+    "ast_hash": "4a5ffbcddbcd21dd19ae62772dce91f7",
+    "semantic_hash": "4a5ffbcddbcd21dd19ae62772dce91f7"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-pathfinder/examples/promise.js": {
+    "mtime": 1780098520.4260366,
+    "ast_hash": "6010e358cee1146f0390f9723af96418",
+    "semantic_hash": "6010e358cee1146f0390f9723af96418"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-pathfinder/examples/tutorial/basic.js": {
+    "mtime": 1780098520.4260366,
+    "ast_hash": "fe84df5df1369a254ae53b2a8c325f9e",
+    "semantic_hash": "fe84df5df1369a254ae53b2a8c325f9e"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-pathfinder/examples/tutorial/goalComposite.js": {
+    "mtime": 1780098520.426203,
+    "ast_hash": "46b69dfd8c1ff5909d126c8e8d527d41",
+    "semantic_hash": "46b69dfd8c1ff5909d126c8e8d527d41"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-pathfinder/lib/astar.js": {
+    "mtime": 1780098520.4274528,
+    "ast_hash": "0d6bdadfbe36d65236dd6888683a8b60",
+    "semantic_hash": "0d6bdadfbe36d65236dd6888683a8b60"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-pathfinder/lib/goals.js": {
+    "mtime": 1780098520.4277246,
+    "ast_hash": "4d6feb7e7a8ba1ea469e429fa330dcc5",
+    "semantic_hash": "4d6feb7e7a8ba1ea469e429fa330dcc5"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-pathfinder/lib/goto.js": {
+    "mtime": 1780098520.4277246,
+    "ast_hash": "2338f5b68d605639105ec57f818b7610",
+    "semantic_hash": "2338f5b68d605639105ec57f818b7610"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-pathfinder/lib/heap.js": {
+    "mtime": 1780098520.427898,
+    "ast_hash": "8cb3423bb4093d1d7ba5c39817148027",
+    "semantic_hash": "8cb3423bb4093d1d7ba5c39817148027"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-pathfinder/lib/interactable.json": {
+    "mtime": 1780098520.4279459,
+    "ast_hash": "b5ca6af60d73c78fd5198e563f945b12",
+    "semantic_hash": "b5ca6af60d73c78fd5198e563f945b12"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-pathfinder/lib/lock.js": {
+    "mtime": 1780098520.4279928,
+    "ast_hash": "df66e0619d25e9abdad97be5f8c09fc5",
+    "semantic_hash": "df66e0619d25e9abdad97be5f8c09fc5"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-pathfinder/lib/move.js": {
+    "mtime": 1780098520.4280367,
+    "ast_hash": "f35b435d603bb0d010f97ba76968af83",
+    "semantic_hash": "f35b435d603bb0d010f97ba76968af83"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-pathfinder/lib/movements.js": {
+    "mtime": 1780098520.4280872,
+    "ast_hash": "e2188b1972ba364421a6be173edf4332",
+    "semantic_hash": "e2188b1972ba364421a6be173edf4332"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-pathfinder/lib/passableEntities.json": {
+    "mtime": 1780098520.4282646,
+    "ast_hash": "e4ff54f54ed21ba9940bcbbc7cf77f4b",
+    "semantic_hash": "e4ff54f54ed21ba9940bcbbc7cf77f4b"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-pathfinder/lib/physics.js": {
+    "mtime": 1780098520.4282646,
+    "ast_hash": "544770d3061580e2d01b767a9487f531",
+    "semantic_hash": "544770d3061580e2d01b767a9487f531"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-pathfinder/lib/shapes.js": {
+    "mtime": 1780098520.4283824,
+    "ast_hash": "862949771007c2c61368fd1b2f7bf716",
+    "semantic_hash": "862949771007c2c61368fd1b2f7bf716"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-pathfinder/lib/pathSmoother.js": {
+    "mtime": 1780131880.7842069,
+    "ast_hash": "cd9fbd2b2e860ec70af2cb01be49895d",
+    "semantic_hash": "cd9fbd2b2e860ec70af2cb01be49895d"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-pathfinder/test/internalTest.js": {
+    "mtime": 1780098520.4285867,
+    "ast_hash": "b607a0373a8e55975521cfc54736815d",
+    "semantic_hash": "b607a0373a8e55975521cfc54736815d"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-test-suite/tsconfig.json": {
+    "mtime": 1780098521.0813575,
+    "ast_hash": "9695af78891cd426f6eadd16cae699a2",
+    "semantic_hash": "9695af78891cd426f6eadd16cae699a2"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-test-suite/void-generator.js": {
+    "mtime": 1780107090.1765387,
+    "ast_hash": "d742b231864933144b388fa7b3263bf5",
+    "semantic_hash": "d742b231864933144b388fa7b3263bf5"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-test-suite/package.json": {
+    "mtime": 1780206288.4513953,
+    "ast_hash": "749677502441bc1a49f9de366c9a4ee3",
+    "semantic_hash": "749677502441bc1a49f9de366c9a4ee3"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-test-suite/src/flying-squid.d.ts": {
+    "mtime": 1780098521.081003,
+    "ast_hash": "1efcb7a454d90effdacd3018b4c7d4be",
+    "semantic_hash": "1efcb7a454d90effdacd3018b4c7d4be"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-test-suite/src/cli.ts": {
+    "mtime": 1780128194.3702621,
+    "ast_hash": "58cc130b2967d37e96b68c48a639952c",
+    "semantic_hash": "58cc130b2967d37e96b68c48a639952c"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-test-suite/src/index.ts": {
+    "mtime": 1780129365.6122718,
+    "ast_hash": "b613d67e31431a85b48288a497d05ea8",
+    "semantic_hash": "b613d67e31431a85b48288a497d05ea8"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-test-suite/src/ChunkRelay.ts": {
+    "mtime": 1780205890.3671799,
+    "ast_hash": "ac1f55c37b7e12a2642815d79a55bd78",
+    "semantic_hash": "ac1f55c37b7e12a2642815d79a55bd78"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-test-suite/src/WorldEditor.ts": {
+    "mtime": 1780205968.2751317,
+    "ast_hash": "68a20369932ec5107e388d84bebb34ca",
+    "semantic_hash": "68a20369932ec5107e388d84bebb34ca"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-test-suite/src/ScenarioManager.ts": {
+    "mtime": 1780205990.5333178,
+    "ast_hash": "877bd22c0b34a3a1c4429245962841a2",
+    "semantic_hash": "877bd22c0b34a3a1c4429245962841a2"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-test-suite/src/MarkerManager.ts": {
+    "mtime": 1780206009.793022,
+    "ast_hash": "bd883627d38a2059c3332389dd94571e",
+    "semantic_hash": "bd883627d38a2059c3332389dd94571e"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-test-suite/src/TestRunner.ts": {
+    "mtime": 1780206023.7543354,
+    "ast_hash": "f5e22bff5de99abd421b91d55fa28e17",
+    "semantic_hash": "f5e22bff5de99abd421b91d55fa28e17"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-test-suite/src/types.ts": {
+    "mtime": 1780206142.887716,
+    "ast_hash": "c797bd4f54463dc47fb2fc7b3a1362c6",
+    "semantic_hash": "c797bd4f54463dc47fb2fc7b3a1362c6"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-test-suite/src/setup.ts": {
+    "mtime": 1780206165.6972516,
+    "ast_hash": "ba5cdda93b49c2f83f9cca23015c46d9",
+    "semantic_hash": "ba5cdda93b49c2f83f9cca23015c46d9"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-test-suite/src/dev-server.ts": {
+    "mtime": 1780266525.3712907,
+    "ast_hash": "b84a695ca819444fa54eea1600e59c7b",
+    "semantic_hash": "b84a695ca819444fa54eea1600e59c7b"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-test-suite/src/visualization/ClientVisualizer.ts": {
+    "mtime": 1780098521.0812736,
+    "ast_hash": "0400afab7b85c4e244352408d25bf3dc",
+    "semantic_hash": "0400afab7b85c4e244352408d25bf3dc"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-test-suite/src/visualization/PathVisualizer.ts": {
+    "mtime": 1780098521.0813575,
+    "ast_hash": "4e5570710bb41902e4c376343977e7a5",
+    "semantic_hash": "4e5570710bb41902e4c376343977e7a5"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-test-suite/src/visualization/PrismarinePathVisualizer.ts": {
+    "mtime": 1780127888.7746408,
+    "ast_hash": "87dde33f032c554461aab50f82c04c35",
+    "semantic_hash": "87dde33f032c554461aab50f82c04c35"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-test-suite/src/visualization/RemotePathVisualizer.ts": {
+    "mtime": 1780206181.646081,
+    "ast_hash": "89ed149a248c835983de77a4df235cd7",
+    "semantic_hash": "89ed149a248c835983de77a4df235cd7"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-test-suite/ui/svelte.config.js": {
+    "mtime": 1780104963.4626637,
+    "ast_hash": "329b28849f47942a704f1e24c8e634fb",
+    "semantic_hash": "329b28849f47942a704f1e24c8e634fb"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-test-suite/ui/tsconfig.json": {
+    "mtime": 1780105104.6590304,
+    "ast_hash": "61ffaa5089ab7fd941eac2ed016f089c",
+    "semantic_hash": "61ffaa5089ab7fd941eac2ed016f089c"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-test-suite/ui/vite.config.ts": {
+    "mtime": 1780173953.4874716,
+    "ast_hash": "09757dae1efe6c9042d060ba1a140024",
+    "semantic_hash": "09757dae1efe6c9042d060ba1a140024"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-test-suite/ui/package.json": {
+    "mtime": 1780214408.9477627,
+    "ast_hash": "8022092eb205081e81e94dff3b76e7d6",
+    "semantic_hash": "8022092eb205081e81e94dff3b76e7d6"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-test-suite/ui/src/main.ts": {
+    "mtime": 1780104969.1336634,
+    "ast_hash": "2836d55701974c6156f2dda11d69bf7f",
+    "semantic_hash": "2836d55701974c6156f2dda11d69bf7f"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-test-suite/ui/src/App.svelte": {
+    "mtime": 1780265872.7287993,
+    "ast_hash": "9bcb581c983e9f99fd7cf721c9fce9b2",
+    "semantic_hash": "9bcb581c983e9f99fd7cf721c9fce9b2"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-test-suite/ui/src/lib/ViewerPanel.svelte": {
+    "mtime": 1780206273.5073404,
+    "ast_hash": "1320311118837d3259fe474f75618146",
+    "semantic_hash": "1320311118837d3259fe474f75618146"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-test-suite/ui/src/lib/WorldEditor.svelte": {
+    "mtime": 1780266659.0949955,
+    "ast_hash": "b51d2e498a11ab8fc90cab95ae46ce8e",
+    "semantic_hash": "b51d2e498a11ab8fc90cab95ae46ce8e"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-test-suite/ui/src/lib/TestPanel.svelte": {
+    "mtime": 1780266672.4663093,
+    "ast_hash": "94573fafd7b79cc905c74c8d47f086fe",
+    "semantic_hash": "94573fafd7b79cc905c74c8d47f086fe"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-test-suite/ui/src/lib/Terminal.svelte": {
+    "mtime": 1780266693.6212378,
+    "ast_hash": "f007b044406dbf0b2b474d14175bcf1c",
+    "semantic_hash": "f007b044406dbf0b2b474d14175bcf1c"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/index.d.ts": {
+    "mtime": 1780107983.0472968,
+    "ast_hash": "f628160c074ef032b67d784c687fb95b",
+    "semantic_hash": "f628160c074ef032b67d784c687fb95b"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/index.js": {
+    "mtime": 1780098522.6291807,
+    "ast_hash": "17316590bf0025af263e430b0a90da36",
+    "semantic_hash": "17316590bf0025af263e430b0a90da36"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/jest-puppeteer.config.js": {
+    "mtime": 1780098522.6292253,
+    "ast_hash": "6e2d7bd89574c2620c5ff490bcbc0422",
+    "semantic_hash": "6e2d7bd89574c2620c5ff490bcbc0422"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/jest.config.js": {
+    "mtime": 1780098522.6292655,
+    "ast_hash": "cb39c149b41bf938829c174bab3059c6",
+    "semantic_hash": "cb39c149b41bf938829c174bab3059c6"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/tsconfig.json": {
+    "mtime": 1780098522.8564792,
+    "ast_hash": "8e55eb680f24a3d0b9723dd7f976d283",
+    "semantic_hash": "8e55eb680f24a3d0b9723dd7f976d283"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/package.json": {
+    "mtime": 1780256928.46172,
+    "ast_hash": "90edd8d13fda7710bb54ef64307e48ba",
+    "semantic_hash": "90edd8d13fda7710bb54ef64307e48ba"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/webpack.config.js": {
+    "mtime": 1780256947.020189,
+    "ast_hash": "ef77f943949b31867e84e70eab991805",
+    "semantic_hash": "ef77f943949b31867e84e70eab991805"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/examples/arrow_trajectory_preview.js": {
+    "mtime": 1780098522.6262522,
+    "ast_hash": "2047eb49ac778d1f9f2c7232216442ed",
+    "semantic_hash": "2047eb49ac778d1f9f2c7232216442ed"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/examples/bot.js": {
+    "mtime": 1780098522.6263406,
+    "ast_hash": "a15f25cddd67ce184e310600a480a139",
+    "semantic_hash": "a15f25cddd67ce184e310600a480a139"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/examples/clickmove.js": {
+    "mtime": 1780098522.6264055,
+    "ast_hash": "f0992482bf4d8bd4b5b5090559694d21",
+    "semantic_hash": "f0992482bf4d8bd4b5b5090559694d21"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/examples/firstperson_bot.js": {
+    "mtime": 1780098522.6274962,
+    "ast_hash": "0b0ef647b069076ea7ef62351585dc24",
+    "semantic_hash": "0b0ef647b069076ea7ef62351585dc24"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/examples/headless.js": {
+    "mtime": 1780098522.6277,
+    "ast_hash": "4766c29e2e83ccbd44516a12a7c289f5",
+    "semantic_hash": "4766c29e2e83ccbd44516a12a7c289f5"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/examples/standalone.js": {
+    "mtime": 1780098522.6279376,
+    "ast_hash": "f3cf196d7f1d723da7cf1ea8288e820a",
+    "semantic_hash": "f3cf196d7f1d723da7cf1ea8288e820a"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/examples/twitch.js": {
+    "mtime": 1780098522.6283722,
+    "ast_hash": "f7cfc7703afd42cd29e62c291a341e79",
+    "semantic_hash": "f7cfc7703afd42cd29e62c291a341e79"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/examples/proxy.js": {
+    "mtime": 1780181018.504243,
+    "ast_hash": "edf5603db515aafa498e5200f61cecc2",
+    "semantic_hash": "edf5603db515aafa498e5200f61cecc2"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/examples/core/headless.js": {
+    "mtime": 1780098522.6264644,
+    "ast_hash": "9ab1c1da8d92f1bdb11ef6a5b8e02267",
+    "semantic_hash": "9ab1c1da8d92f1bdb11ef6a5b8e02267"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/examples/electron/index.js": {
+    "mtime": 1780098522.6268425,
+    "ast_hash": "3bc395fdd147a53978e5c8ed52b704ff",
+    "semantic_hash": "3bc395fdd147a53978e5c8ed52b704ff"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/examples/electron/package.json": {
+    "mtime": 1780098522.6271653,
+    "ast_hash": "90bab3790703e82675e078985dc0e193",
+    "semantic_hash": "90bab3790703e82675e078985dc0e193"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/examples/electron/client/bootstrap.js": {
+    "mtime": 1780098522.6268425,
+    "ast_hash": "d11f240505ac09e3c291702c9c46c583",
+    "semantic_hash": "d11f240505ac09e3c291702c9c46c583"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/examples/electron/client/localViewer.js": {
+    "mtime": 1780098522.6268425,
+    "ast_hash": "cbc52d511bc7f386236b10b128ac21f4",
+    "semantic_hash": "cbc52d511bc7f386236b10b128ac21f4"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/examples/electron/client/preload.js": {
+    "mtime": 1780098522.6268425,
+    "ast_hash": "31c9b8c5aeb8a8e89468a53cc68289a0",
+    "semantic_hash": "31c9b8c5aeb8a8e89468a53cc68289a0"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/examples/electron/client/worker.js": {
+    "mtime": 1780098522.6268425,
+    "ast_hash": "8ecdcc9336e9773adb1b76a0af97d147",
+    "semantic_hash": "8ecdcc9336e9773adb1b76a0af97d147"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/examples/exporter/3dmodel.js": {
+    "mtime": 1780098522.6273458,
+    "ast_hash": "50697f8e9f077d5504025c9800ef2cc9",
+    "semantic_hash": "50697f8e9f077d5504025c9800ef2cc9"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/examples/exporter/package.json": {
+    "mtime": 1780098522.6274543,
+    "ast_hash": "df4e0b940fd7ff25221a671aaacb1faf",
+    "semantic_hash": "df4e0b940fd7ff25221a671aaacb1faf"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/examples/exporter/screenshot.js": {
+    "mtime": 1780098522.6274962,
+    "ast_hash": "fe129087dd1288d6df014134dd1612ae",
+    "semantic_hash": "fe129087dd1288d6df014134dd1612ae"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/examples/python/receiver.py": {
+    "mtime": 1780098522.6278455,
+    "ast_hash": "a2c44ad86558772c648c18b9e29090f4",
+    "semantic_hash": "a2c44ad86558772c648c18b9e29090f4"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/examples/python/sender.js": {
+    "mtime": 1780098522.6279376,
+    "ast_hash": "84da84f50cfdb7d22350cde7e6aca6ab",
+    "semantic_hash": "84da84f50cfdb7d22350cde7e6aca6ab"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/examples/standalone/index.js": {
+    "mtime": 1780098522.6281912,
+    "ast_hash": "806af1697aeb4e0633938e5525d40f06",
+    "semantic_hash": "806af1697aeb4e0633938e5525d40f06"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/examples/standalone/package.json": {
+    "mtime": 1780098522.6282482,
+    "ast_hash": "93466d89313dab154673002aeb04f232",
+    "semantic_hash": "93466d89313dab154673002aeb04f232"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/examples/standalone/webpack.config.js": {
+    "mtime": 1780098522.6283722,
+    "ast_hash": "71780c5b75296405b645fc1d2e1ed081",
+    "semantic_hash": "71780c5b75296405b645fc1d2e1ed081"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/examples/web_client/dns.js": {
+    "mtime": 1780098522.6286745,
+    "ast_hash": "7a92120b6c39b29875d19d3c818a0441",
+    "semantic_hash": "7a92120b6c39b29875d19d3c818a0441"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/examples/web_client/index.js": {
+    "mtime": 1780098522.628822,
+    "ast_hash": "2c78527cc80c8b91b99fc3d17f2183a5",
+    "semantic_hash": "2c78527cc80c8b91b99fc3d17f2183a5"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/examples/web_client/package.json": {
+    "mtime": 1780098522.6289232,
+    "ast_hash": "6a103c44f0dcc08a76fb462c2e301209",
+    "semantic_hash": "6a103c44f0dcc08a76fb462c2e301209"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/examples/web_client/perf_hooks_replacement.js": {
+    "mtime": 1780098522.628962,
+    "ast_hash": "fdc7a1d3781b8c0e21877194b776218e",
+    "semantic_hash": "fdc7a1d3781b8c0e21877194b776218e"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/examples/web_client/server.js": {
+    "mtime": 1780098522.6290503,
+    "ast_hash": "2eb71632f0e450b0d760f2b7daddad65",
+    "semantic_hash": "2eb71632f0e450b0d760f2b7daddad65"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/examples/web_client/webpack.config.js": {
+    "mtime": 1780098522.6290987,
+    "ast_hash": "1839846143c5bb5a2aa08ba97cd4f011",
+    "semantic_hash": "1839846143c5bb5a2aa08ba97cd4f011"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/lib/common.js": {
+    "mtime": 1780098522.6293366,
+    "ast_hash": "833a4cafd25f3d027bd428aee29c7268",
+    "semantic_hash": "833a4cafd25f3d027bd428aee29c7268"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/lib/headless.js": {
+    "mtime": 1780098522.6294582,
+    "ast_hash": "880d4ef18afe7d4aa58ff1a279476ff3",
+    "semantic_hash": "880d4ef18afe7d4aa58ff1a279476ff3"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/lib/standalone.js": {
+    "mtime": 1780098522.62965,
+    "ast_hash": "b521a88fcc6a741df6aba0ef2f9d24ed",
+    "semantic_hash": "b521a88fcc6a741df6aba0ef2f9d24ed"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/lib/index.js": {
+    "mtime": 1780192192.5146346,
+    "ast_hash": "0fbb66491e591eb8c32c99122ca41363",
+    "semantic_hash": "0fbb66491e591eb8c32c99122ca41363"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/lib/mineflayer.js": {
+    "mtime": 1780211156.3682644,
+    "ast_hash": "c648d59b61e882b4d9dbfa14ed68e2ad",
+    "semantic_hash": "c648d59b61e882b4d9dbfa14ed68e2ad"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/index.js": {
+    "mtime": 1780257546.5336208,
+    "ast_hash": "1ee73a8992298b7b0a66d3a81e233d17",
+    "semantic_hash": "1ee73a8992298b7b0a66d3a81e233d17"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/worker.js": {
+    "mtime": 1780257052.1274307,
+    "ast_hash": "048c827ca2e61c220717586c373f5549",
+    "semantic_hash": "048c827ca2e61c220717586c373f5549"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.8.8/blocks_models.json": {
+    "mtime": 1780104563.5813577,
+    "ast_hash": "716a2489913495f039fa269ce2fc81bf",
+    "semantic_hash": "716a2489913495f039fa269ce2fc81bf"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.8.8/blocks_states.json": {
+    "mtime": 1780104563.581578,
+    "ast_hash": "c9eba889f6e49ccd9d80ea4cb5c6ae43",
+    "semantic_hash": "c9eba889f6e49ccd9d80ea4cb5c6ae43"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.8.8/blocks_textures.json": {
+    "mtime": 1780104563.5817118,
+    "ast_hash": "376c5457b007c5eff2bc7f7e3dc9190a",
+    "semantic_hash": "376c5457b007c5eff2bc7f7e3dc9190a"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.8.8/items_textures.json": {
+    "mtime": 1780104563.5818424,
+    "ast_hash": "9785e82f64febe3fe9f50fc5c498058d",
+    "semantic_hash": "9785e82f64febe3fe9f50fc5c498058d"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.8.8/texture_content.json": {
+    "mtime": 1780104563.5820048,
+    "ast_hash": "d6de16fd0f4172feb7872919960f653b",
+    "semantic_hash": "d6de16fd0f4172feb7872919960f653b"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.9.4/blocks_models.json": {
+    "mtime": 1780104564.0241683,
+    "ast_hash": "4a2c5a40c1405435a37f40886bbb76c3",
+    "semantic_hash": "4a2c5a40c1405435a37f40886bbb76c3"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.9.4/blocks_states.json": {
+    "mtime": 1780104564.0243318,
+    "ast_hash": "11e84fdd4dc0b922fa5a5de04c45bc38",
+    "semantic_hash": "11e84fdd4dc0b922fa5a5de04c45bc38"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.9.4/blocks_textures.json": {
+    "mtime": 1780104564.0244794,
+    "ast_hash": "9e6a8de70836c34c1ab879f0710e67dc",
+    "semantic_hash": "9e6a8de70836c34c1ab879f0710e67dc"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.9.4/items_textures.json": {
+    "mtime": 1780104564.0246308,
+    "ast_hash": "d47817fb2035373734c1bd78bad2a4f9",
+    "semantic_hash": "d47817fb2035373734c1bd78bad2a4f9"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.9.4/texture_content.json": {
+    "mtime": 1780104564.0247796,
+    "ast_hash": "355cd5c81523aa527e15eca1fddd88a7",
+    "semantic_hash": "355cd5c81523aa527e15eca1fddd88a7"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.10.2/blocks_models.json": {
+    "mtime": 1780104564.4288273,
+    "ast_hash": "6e92a639d632f991a79dbabcb05f6dc3",
+    "semantic_hash": "6e92a639d632f991a79dbabcb05f6dc3"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.10.2/blocks_states.json": {
+    "mtime": 1780104564.4290013,
+    "ast_hash": "11e84fdd4dc0b922fa5a5de04c45bc38",
+    "semantic_hash": "11e84fdd4dc0b922fa5a5de04c45bc38"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.10.2/blocks_textures.json": {
+    "mtime": 1780104564.4291434,
+    "ast_hash": "9e6a8de70836c34c1ab879f0710e67dc",
+    "semantic_hash": "9e6a8de70836c34c1ab879f0710e67dc"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.10.2/items_textures.json": {
+    "mtime": 1780104564.4292846,
+    "ast_hash": "d47817fb2035373734c1bd78bad2a4f9",
+    "semantic_hash": "d47817fb2035373734c1bd78bad2a4f9"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.10.2/texture_content.json": {
+    "mtime": 1780104564.4294314,
+    "ast_hash": "768a7f095740440b7021af6ef768681f",
+    "semantic_hash": "768a7f095740440b7021af6ef768681f"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.11.2/blocks_models.json": {
+    "mtime": 1780104564.8761556,
+    "ast_hash": "970fe97bff0f15a3680ba9fb6abfc22b",
+    "semantic_hash": "970fe97bff0f15a3680ba9fb6abfc22b"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.11.2/blocks_states.json": {
+    "mtime": 1780104564.8763328,
+    "ast_hash": "c9bb8a303c31efa02eb2843091299c16",
+    "semantic_hash": "c9bb8a303c31efa02eb2843091299c16"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.11.2/blocks_textures.json": {
+    "mtime": 1780104564.8764646,
+    "ast_hash": "17f295ef69e0dbaf55658166e582558a",
+    "semantic_hash": "17f295ef69e0dbaf55658166e582558a"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.11.2/items_textures.json": {
+    "mtime": 1780104564.8766096,
+    "ast_hash": "c40ebd5cc994406863f9455a6fd89dd5",
+    "semantic_hash": "c40ebd5cc994406863f9455a6fd89dd5"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.11.2/texture_content.json": {
+    "mtime": 1780104564.8767536,
+    "ast_hash": "5ed0686330dabf46f7b2c05117c2bb59",
+    "semantic_hash": "5ed0686330dabf46f7b2c05117c2bb59"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.12.2/blocks_models.json": {
+    "mtime": 1780104565.3176637,
+    "ast_hash": "37b921edaeeca64235c2ff13b0d486dc",
+    "semantic_hash": "37b921edaeeca64235c2ff13b0d486dc"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.12.2/blocks_states.json": {
+    "mtime": 1780104565.3178728,
+    "ast_hash": "77bbe497d46df8821a1201adfcbe9dcc",
+    "semantic_hash": "77bbe497d46df8821a1201adfcbe9dcc"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.12.2/blocks_textures.json": {
+    "mtime": 1780104565.3180475,
+    "ast_hash": "3c19deed191d6fda2fa57a58d8776669",
+    "semantic_hash": "3c19deed191d6fda2fa57a58d8776669"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.12.2/items_textures.json": {
+    "mtime": 1780104565.3181825,
+    "ast_hash": "95fb59fdd786550a1b6d15db7d57ab9b",
+    "semantic_hash": "95fb59fdd786550a1b6d15db7d57ab9b"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.12.2/texture_content.json": {
+    "mtime": 1780104565.3183265,
+    "ast_hash": "7635ec74d48d6683d71d9e93a79a1c59",
+    "semantic_hash": "7635ec74d48d6683d71d9e93a79a1c59"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.13.2/blocks_models.json": {
+    "mtime": 1780104565.8439078,
+    "ast_hash": "fa7c003bf060db9866d0afe68249657d",
+    "semantic_hash": "fa7c003bf060db9866d0afe68249657d"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.13.2/blocks_states.json": {
+    "mtime": 1780104565.8441234,
+    "ast_hash": "fa2328e59003713e1ec6bca7c0113757",
+    "semantic_hash": "fa2328e59003713e1ec6bca7c0113757"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.13.2/blocks_textures.json": {
+    "mtime": 1780104565.8443015,
+    "ast_hash": "39349abf267c3c541f7dd128404aa468",
+    "semantic_hash": "39349abf267c3c541f7dd128404aa468"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.13.2/items_textures.json": {
+    "mtime": 1780104565.8444636,
+    "ast_hash": "3e8c2deb3863de9a50dc6f4b51af4519",
+    "semantic_hash": "3e8c2deb3863de9a50dc6f4b51af4519"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.13.2/texture_content.json": {
+    "mtime": 1780104565.8446436,
+    "ast_hash": "9e0eaede83bdd19222f996fcf9a3e724",
+    "semantic_hash": "9e0eaede83bdd19222f996fcf9a3e724"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.14.4/blocks_models.json": {
+    "mtime": 1780104566.4829307,
+    "ast_hash": "7c5d45e101ace16363f3efab384db2fc",
+    "semantic_hash": "7c5d45e101ace16363f3efab384db2fc"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.14.4/blocks_states.json": {
+    "mtime": 1780104566.4831085,
+    "ast_hash": "ded066770e3263f62221bb99ac6d5011",
+    "semantic_hash": "ded066770e3263f62221bb99ac6d5011"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.14.4/blocks_textures.json": {
+    "mtime": 1780104566.483269,
+    "ast_hash": "6c9576c35cdd8511975916cbcbd37463",
+    "semantic_hash": "6c9576c35cdd8511975916cbcbd37463"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.14.4/items_textures.json": {
+    "mtime": 1780104566.4834015,
+    "ast_hash": "78a04f25cf30b579b9ae16c4cb6aa5be",
+    "semantic_hash": "78a04f25cf30b579b9ae16c4cb6aa5be"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.14.4/texture_content.json": {
+    "mtime": 1780104566.483543,
+    "ast_hash": "0bcd02abccfad1a871191c62bf3eb04c",
+    "semantic_hash": "0bcd02abccfad1a871191c62bf3eb04c"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.15.2/blocks_models.json": {
+    "mtime": 1780104567.1531522,
+    "ast_hash": "55c4773acf011680a4bafe07b7169ecc",
+    "semantic_hash": "55c4773acf011680a4bafe07b7169ecc"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.15.2/blocks_states.json": {
+    "mtime": 1780104567.153331,
+    "ast_hash": "00c9c782f1bdbb070e2e853e9d7917a1",
+    "semantic_hash": "00c9c782f1bdbb070e2e853e9d7917a1"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.15.2/blocks_textures.json": {
+    "mtime": 1780104567.1534836,
+    "ast_hash": "9d8ad9128e70f51b6de4d29140e98ff0",
+    "semantic_hash": "9d8ad9128e70f51b6de4d29140e98ff0"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.15.2/items_textures.json": {
+    "mtime": 1780104567.1536388,
+    "ast_hash": "ab962e1e2f51484078a2d87a06e8ea52",
+    "semantic_hash": "ab962e1e2f51484078a2d87a06e8ea52"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.15.2/texture_content.json": {
+    "mtime": 1780104567.1538036,
+    "ast_hash": "0fda55cc309d7b707290b54f18c8e84a",
+    "semantic_hash": "0fda55cc309d7b707290b54f18c8e84a"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.16.1/blocks_models.json": {
+    "mtime": 1780104567.86343,
+    "ast_hash": "9660f874f18d76a52aaa8088e279a455",
+    "semantic_hash": "9660f874f18d76a52aaa8088e279a455"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.16.1/blocks_states.json": {
+    "mtime": 1780104567.8636634,
+    "ast_hash": "4f8150d52f4d13be8a1ab8763d144356",
+    "semantic_hash": "4f8150d52f4d13be8a1ab8763d144356"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.16.1/blocks_textures.json": {
+    "mtime": 1780104567.8638666,
+    "ast_hash": "cd4050e2d1c2b301b074d45ee80ae4f7",
+    "semantic_hash": "cd4050e2d1c2b301b074d45ee80ae4f7"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.16.1/items_textures.json": {
+    "mtime": 1780104567.8640022,
+    "ast_hash": "0c4cae58f21bee361e0b6c80e9b6e1a3",
+    "semantic_hash": "0c4cae58f21bee361e0b6c80e9b6e1a3"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.16.1/texture_content.json": {
+    "mtime": 1780104567.8641539,
+    "ast_hash": "05b839b0fcea5425a842d7d9a40df2ad",
+    "semantic_hash": "05b839b0fcea5425a842d7d9a40df2ad"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.16.4/blocks_models.json": {
+    "mtime": 1780104568.6135614,
+    "ast_hash": "26294c71e04adf04e472859a2a7409f4",
+    "semantic_hash": "26294c71e04adf04e472859a2a7409f4"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.16.4/blocks_states.json": {
+    "mtime": 1780104568.6138046,
+    "ast_hash": "1ecb895bd03ebfc24b478ca64253415a",
+    "semantic_hash": "1ecb895bd03ebfc24b478ca64253415a"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.16.4/blocks_textures.json": {
+    "mtime": 1780104568.6139874,
+    "ast_hash": "1d6bf43843b582cf1169a23fc5c48d86",
+    "semantic_hash": "1d6bf43843b582cf1169a23fc5c48d86"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.16.4/items_textures.json": {
+    "mtime": 1780104568.6141536,
+    "ast_hash": "12605724930f1a18d3c192bf30dc8396",
+    "semantic_hash": "12605724930f1a18d3c192bf30dc8396"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.16.4/texture_content.json": {
+    "mtime": 1780104568.6143377,
+    "ast_hash": "b09086642d87ca6b29d5a567c96207f6",
+    "semantic_hash": "b09086642d87ca6b29d5a567c96207f6"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.17.1/blocks_models.json": {
+    "mtime": 1780104569.4741406,
+    "ast_hash": "cef61b624b9ec49c45097cf96feec87e",
+    "semantic_hash": "cef61b624b9ec49c45097cf96feec87e"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.17.1/blocks_states.json": {
+    "mtime": 1780104569.4743373,
+    "ast_hash": "186c8b34498830f52a2db4b093feeabb",
+    "semantic_hash": "186c8b34498830f52a2db4b093feeabb"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.17.1/blocks_textures.json": {
+    "mtime": 1780104569.4745195,
+    "ast_hash": "17d62ffca4da1a3afe8ba1e187a1745c",
+    "semantic_hash": "17d62ffca4da1a3afe8ba1e187a1745c"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.17.1/items_textures.json": {
+    "mtime": 1780104569.4746706,
+    "ast_hash": "5e6c6485bdf20214abbdabf4f30943b8",
+    "semantic_hash": "5e6c6485bdf20214abbdabf4f30943b8"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.17.1/texture_content.json": {
+    "mtime": 1780104569.4748054,
+    "ast_hash": "8684cbefe29726bb98017f9419f5c916",
+    "semantic_hash": "8684cbefe29726bb98017f9419f5c916"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.18.1/blocks_models.json": {
+    "mtime": 1780104570.3018477,
+    "ast_hash": "f05d4530b9761f4857e532f743ea8d97",
+    "semantic_hash": "f05d4530b9761f4857e532f743ea8d97"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.18.1/blocks_states.json": {
+    "mtime": 1780104570.3020468,
+    "ast_hash": "5994224eff6f9176695753fcbca502aa",
+    "semantic_hash": "5994224eff6f9176695753fcbca502aa"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.18.1/blocks_textures.json": {
+    "mtime": 1780104570.3022134,
+    "ast_hash": "90e20007c8ebcdc963c87ca2b13d70cd",
+    "semantic_hash": "90e20007c8ebcdc963c87ca2b13d70cd"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.18.1/items_textures.json": {
+    "mtime": 1780104570.3023422,
+    "ast_hash": "12ad0cd4fa27243dfcf5500b1c844594",
+    "semantic_hash": "12ad0cd4fa27243dfcf5500b1c844594"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.18.1/texture_content.json": {
+    "mtime": 1780104570.3024876,
+    "ast_hash": "bd0ed01936eb560539724d9a1032ef39",
+    "semantic_hash": "bd0ed01936eb560539724d9a1032ef39"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.19/blocks_models.json": {
+    "mtime": 1780104571.1919727,
+    "ast_hash": "5d3eb3e0823004f94e515200d69d54b9",
+    "semantic_hash": "5d3eb3e0823004f94e515200d69d54b9"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.19/blocks_states.json": {
+    "mtime": 1780104571.1922445,
+    "ast_hash": "76fa5d153fada74dc7b03d2f3f254765",
+    "semantic_hash": "76fa5d153fada74dc7b03d2f3f254765"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.19/blocks_textures.json": {
+    "mtime": 1780104571.192491,
+    "ast_hash": "3063aa3a9440f5fe5d517db716b8aa87",
+    "semantic_hash": "3063aa3a9440f5fe5d517db716b8aa87"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.19/items_textures.json": {
+    "mtime": 1780104571.1926618,
+    "ast_hash": "63e4ff5c01e23103ce1075b6ed747ae4",
+    "semantic_hash": "63e4ff5c01e23103ce1075b6ed747ae4"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.19/texture_content.json": {
+    "mtime": 1780104571.1928337,
+    "ast_hash": "4713489067f53f092ba15efb1b3352dc",
+    "semantic_hash": "4713489067f53f092ba15efb1b3352dc"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.20.1/blocks_models.json": {
+    "mtime": 1780104572.2811587,
+    "ast_hash": "57ad2acc0b0eaa5ae5f8594725f09593",
+    "semantic_hash": "57ad2acc0b0eaa5ae5f8594725f09593"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.20.1/blocks_states.json": {
+    "mtime": 1780104572.2813685,
+    "ast_hash": "deb5d199307e7b2940a3c4d0dbdc46fb",
+    "semantic_hash": "deb5d199307e7b2940a3c4d0dbdc46fb"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.20.1/blocks_textures.json": {
+    "mtime": 1780104572.2815542,
+    "ast_hash": "fb79df3c63340fa0c09b31622c95cf5f",
+    "semantic_hash": "fb79df3c63340fa0c09b31622c95cf5f"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.20.1/items_textures.json": {
+    "mtime": 1780104572.2817087,
+    "ast_hash": "571c0cfcb8c62f3bed397e482ea39407",
+    "semantic_hash": "571c0cfcb8c62f3bed397e482ea39407"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.20.1/texture_content.json": {
+    "mtime": 1780104572.2818518,
+    "ast_hash": "7a405701014f0cd840c246737c3c3a77",
+    "semantic_hash": "7a405701014f0cd840c246737c3c3a77"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.21.1/blocks_models.json": {
+    "mtime": 1780104573.3835824,
+    "ast_hash": "1f85046bbc49b78a246fc3acdbbf9ec8",
+    "semantic_hash": "1f85046bbc49b78a246fc3acdbbf9ec8"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.21.1/blocks_states.json": {
+    "mtime": 1780104573.3838377,
+    "ast_hash": "2d1bb3bdcff23eca1fea00b940284307",
+    "semantic_hash": "2d1bb3bdcff23eca1fea00b940284307"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.21.1/blocks_textures.json": {
+    "mtime": 1780104573.384024,
+    "ast_hash": "2f0c98ce4b9e95bff564d07ff27b95f7",
+    "semantic_hash": "2f0c98ce4b9e95bff564d07ff27b95f7"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.21.1/items_textures.json": {
+    "mtime": 1780104573.3841712,
+    "ast_hash": "f0ac1798295692555147e326379c3267",
+    "semantic_hash": "f0ac1798295692555147e326379c3267"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.21.1/texture_content.json": {
+    "mtime": 1780104573.3843236,
+    "ast_hash": "2a73736b6ceb784ed3588d7729fd9480",
+    "semantic_hash": "2a73736b6ceb784ed3588d7729fd9480"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.21.4/blocks_models.json": {
+    "mtime": 1780104574.5437217,
+    "ast_hash": "ce601847301856c92690d364c4e93344",
+    "semantic_hash": "ce601847301856c92690d364c4e93344"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.21.4/blocks_states.json": {
+    "mtime": 1780104574.5439785,
+    "ast_hash": "1d452f406c313a6e2fe311640e9fe118",
+    "semantic_hash": "1d452f406c313a6e2fe311640e9fe118"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.21.4/blocks_textures.json": {
+    "mtime": 1780104574.5442228,
+    "ast_hash": "07544c22665103685bacf249f6e6367b",
+    "semantic_hash": "07544c22665103685bacf249f6e6367b"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.21.4/items_textures.json": {
+    "mtime": 1780104574.5444112,
+    "ast_hash": "4a8744d83e5f4b35d3b027903f0be04a",
+    "semantic_hash": "4a8744d83e5f4b35d3b027903f0be04a"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/textures/1.21.4/texture_content.json": {
+    "mtime": 1780104574.544618,
+    "ast_hash": "367c11c6ad65d0c22cf42c38e72ea975",
+    "semantic_hash": "367c11c6ad65d0c22cf42c38e72ea975"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/blocksStates/1.8.8.json": {
+    "mtime": 1780104563.3808212,
+    "ast_hash": "613bbe506eb6691167a1d668c3434aa8",
+    "semantic_hash": "613bbe506eb6691167a1d668c3434aa8"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/blocksStates/1.9.4.json": {
+    "mtime": 1780104563.786821,
+    "ast_hash": "eb935b1d761e144eb8d44ea454c10720",
+    "semantic_hash": "eb935b1d761e144eb8d44ea454c10720"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/blocksStates/1.10.2.json": {
+    "mtime": 1780104564.2098205,
+    "ast_hash": "72b5fdcb11df2c355ef24a4ca75bf4bf",
+    "semantic_hash": "72b5fdcb11df2c355ef24a4ca75bf4bf"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/blocksStates/1.11.2.json": {
+    "mtime": 1780104564.6438203,
+    "ast_hash": "24bb918560a8b2c2e8065c6e977155dc",
+    "semantic_hash": "24bb918560a8b2c2e8065c6e977155dc"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/blocksStates/1.12.2.json": {
+    "mtime": 1780104565.0738199,
+    "ast_hash": "28f29cc8018478ef4458531aa1ee7027",
+    "semantic_hash": "28f29cc8018478ef4458531aa1ee7027"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/blocksStates/1.13.2.json": {
+    "mtime": 1780104565.5818195,
+    "ast_hash": "17077261e844777cb06239d90672f781",
+    "semantic_hash": "17077261e844777cb06239d90672f781"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/blocksStates/1.14.4.json": {
+    "mtime": 1780104566.157819,
+    "ast_hash": "d17619dfacb0359bdb98ccad078cf2df",
+    "semantic_hash": "d17619dfacb0359bdb98ccad078cf2df"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/blocksStates/1.15.2.json": {
+    "mtime": 1780104566.8378184,
+    "ast_hash": "971b4ae0e303f454948e67af02518b78",
+    "semantic_hash": "971b4ae0e303f454948e67af02518b78"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/blocksStates/1.16.1.json": {
+    "mtime": 1780104567.5098178,
+    "ast_hash": "4356da4dec42fd2335201a638016ad3e",
+    "semantic_hash": "4356da4dec42fd2335201a638016ad3e"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/blocksStates/1.16.4.json": {
+    "mtime": 1780104568.2368171,
+    "ast_hash": "d7fb1c3ee52803c9315145ed0f68b6f2",
+    "semantic_hash": "d7fb1c3ee52803c9315145ed0f68b6f2"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/blocksStates/1.17.1.json": {
+    "mtime": 1780104569.0708165,
+    "ast_hash": "23d4eed2d8804f1269ba0641614980a7",
+    "semantic_hash": "23d4eed2d8804f1269ba0641614980a7"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/blocksStates/1.18.1.json": {
+    "mtime": 1780104569.9128158,
+    "ast_hash": "e3183b75f654262a2b48151b10743dca",
+    "semantic_hash": "e3183b75f654262a2b48151b10743dca"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/blocksStates/1.19.json": {
+    "mtime": 1780104570.783815,
+    "ast_hash": "d2324a9d1c4596d2733cfc164aea7c59",
+    "semantic_hash": "d2324a9d1c4596d2733cfc164aea7c59"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/blocksStates/1.20.1.json": {
+    "mtime": 1780104571.771814,
+    "ast_hash": "fa1392be0878ee6f8c9cea4c2e74ea32",
+    "semantic_hash": "fa1392be0878ee6f8c9cea4c2e74ea32"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/blocksStates/1.21.1.json": {
+    "mtime": 1780104572.8308132,
+    "ast_hash": "c20c7b86fce917ef51697470fca3c939",
+    "semantic_hash": "c20c7b86fce917ef51697470fca3c939"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/blocksStates/1.21.4.json": {
+    "mtime": 1780104573.9668121,
+    "ast_hash": "546dc997e741dd899b152a4c9369bcb0",
+    "semantic_hash": "546dc997e741dd899b152a4c9369bcb0"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/test/simple.test.js": {
+    "mtime": 1780098522.8564792,
+    "ast_hash": "7615af1b7139fc85eb048e013d4d98ef",
+    "semantic_hash": "7615af1b7139fc85eb048e013d4d98ef"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/test/viewer.test.js": {
+    "mtime": 1780098522.8564792,
+    "ast_hash": "a806658b583c9f585b5378a26486b8b5",
+    "semantic_hash": "a806658b583c9f585b5378a26486b8b5"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/test/common/util.js": {
+    "mtime": 1780098522.856395,
+    "ast_hash": "d1f5a932ea3c34d161aea03d02ab0aea",
+    "semantic_hash": "d1f5a932ea3c34d161aea03d02ab0aea"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/viewer/index.js": {
+    "mtime": 1780098522.8568885,
+    "ast_hash": "f79f7ecece036e249234f6b8868ae94d",
+    "semantic_hash": "f79f7ecece036e249234f6b8868ae94d"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/viewer/prerender.js": {
+    "mtime": 1780098522.8599346,
+    "ast_hash": "16ea9056053b9a73c78b38a03fff3c82",
+    "semantic_hash": "16ea9056053b9a73c78b38a03fff3c82"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/viewer/lib/atlas.js": {
+    "mtime": 1780098522.857031,
+    "ast_hash": "e01fc9b831c71c2fa1f8a8e00a5d0b98",
+    "semantic_hash": "e01fc9b831c71c2fa1f8a8e00a5d0b98"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/viewer/lib/models.js": {
+    "mtime": 1780098522.8589768,
+    "ast_hash": "96d4339a90a3a37425b0173f95d57596",
+    "semantic_hash": "96d4339a90a3a37425b0173f95d57596"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/viewer/lib/modelsBuilder.js": {
+    "mtime": 1780098522.8589768,
+    "ast_hash": "1f200d539d3184184b5202282d0a4ed4",
+    "semantic_hash": "1f200d539d3184184b5202282d0a4ed4"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/viewer/lib/simpleUtils.js": {
+    "mtime": 1780098522.8592474,
+    "ast_hash": "d04ac864bae68aafffda0ff0fc60614c",
+    "semantic_hash": "d04ac864bae68aafffda0ff0fc60614c"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/viewer/lib/utils.electron.js": {
+    "mtime": 1780098522.8593352,
+    "ast_hash": "3c91565b39e8995c97fd39502ff9232b",
+    "semantic_hash": "3c91565b39e8995c97fd39502ff9232b"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/viewer/lib/utils.js": {
+    "mtime": 1780098522.859403,
+    "ast_hash": "1ad0a7fa18f12c4b1a323a147f51f12b",
+    "semantic_hash": "1ad0a7fa18f12c4b1a323a147f51f12b"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/viewer/lib/utils.web.js": {
+    "mtime": 1780098522.8594565,
+    "ast_hash": "87ca3bded737a2884538c9b938b953f7",
+    "semantic_hash": "87ca3bded737a2884538c9b938b953f7"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/viewer/lib/version.js": {
+    "mtime": 1780098522.8595328,
+    "ast_hash": "971991c353728b88f41d917e410f20dd",
+    "semantic_hash": "971991c353728b88f41d917e410f20dd"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/viewer/lib/worker.js": {
+    "mtime": 1780098522.8596888,
+    "ast_hash": "a770f267d0c983fb323f11fa768b84e3",
+    "semantic_hash": "a770f267d0c983fb323f11fa768b84e3"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/viewer/lib/world.js": {
+    "mtime": 1780098522.8597748,
+    "ast_hash": "f644b27599062f8efb377be348564a8a",
+    "semantic_hash": "f644b27599062f8efb377be348564a8a"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/viewer/lib/worldrenderer.js": {
+    "mtime": 1780098522.8599346,
+    "ast_hash": "87432be18556f719cca74bdc209068c1",
+    "semantic_hash": "87432be18556f719cca74bdc209068c1"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/viewer/lib/entities.js": {
+    "mtime": 1780121566.6832218,
+    "ast_hash": "e5c0d0a7035d31b4c8f13f346a07832d",
+    "semantic_hash": "e5c0d0a7035d31b4c8f13f346a07832d"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/viewer/lib/dispose.js": {
+    "mtime": 1780178468.8047845,
+    "ast_hash": "ca04b93f59dc8c23d10d0a07fdd0a9c5",
+    "semantic_hash": "ca04b93f59dc8c23d10d0a07fdd0a9c5"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/viewer/lib/controls.js": {
+    "mtime": 1780186232.0265667,
+    "ast_hash": "fb244ca1ea612b432f7e0850bc816c57",
+    "semantic_hash": "fb244ca1ea612b432f7e0850bc816c57"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/viewer/lib/primitives.js": {
+    "mtime": 1780190429.7759287,
+    "ast_hash": "bcef70d7a87ff4e04399fdc2038dc457",
+    "semantic_hash": "bcef70d7a87ff4e04399fdc2038dc457"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/viewer/lib/transformGizmo.js": {
+    "mtime": 1780192162.5535874,
+    "ast_hash": "a31e57a0c77b21aa813e8ed4964b30d9",
+    "semantic_hash": "a31e57a0c77b21aa813e8ed4964b30d9"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/viewer/lib/viewer.js": {
+    "mtime": 1780192817.5852165,
+    "ast_hash": "acc4d5b66f13c219af4936922b84f325",
+    "semantic_hash": "acc4d5b66f13c219af4936922b84f325"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/viewer/lib/worldView.js": {
+    "mtime": 1780211179.3684504,
+    "ast_hash": "9067d1b1fc934ee1f32a43f04dd5d2c0",
+    "semantic_hash": "9067d1b1fc934ee1f32a43f04dd5d2c0"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/viewer/lib/viewerUI.js": {
+    "mtime": 1780257156.7239854,
+    "ast_hash": "ede4a5b07254207c6fa64ad8ad394b45",
+    "semantic_hash": "ede4a5b07254207c6fa64ad8ad394b45"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/viewer/lib/ViewerUI.svelte": {
+    "mtime": 1780257423.193598,
+    "ast_hash": "f13c0ab2a8046970891b8cd36a20aad5",
+    "semantic_hash": "f13c0ab2a8046970891b8cd36a20aad5"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/viewer/lib/entity/Entity.js": {
+    "mtime": 1780098522.857292,
+    "ast_hash": "3c62d18114b61af5274d203ab18a5b45",
+    "semantic_hash": "3c62d18114b61af5274d203ab18a5b45"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/viewer/lib/entity/entities.json": {
+    "mtime": 1780098522.8581393,
+    "ast_hash": "51a6d24794a4e467ee5c8832708779a3",
+    "semantic_hash": "51a6d24794a4e467ee5c8832708779a3"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/.claude/settings.local.json": {
+    "mtime": 1780213400.9565036,
+    "ast_hash": "230216ec0a984d3432a37ae55038346e",
+    "semantic_hash": "230216ec0a984d3432a37ae55038346e"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/.claude/settings.json": {
+    "mtime": 1780267254.0660424,
+    "ast_hash": "87f0d903477984d0587a02f8fe185263",
+    "semantic_hash": "87f0d903477984d0587a02f8fe185263"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/ENVIRONMENT.md": {
+    "mtime": 1780097485.3305016,
+    "ast_hash": "2d42b5a0346cd39c81a9d6de54ae8681",
+    "semantic_hash": "2d42b5a0346cd39c81a9d6de54ae8681"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/README-PRIVATE.md": {
+    "mtime": 1780101540.6292968,
+    "ast_hash": "dd6aa8d18556176cde5c79171cc33803",
+    "semantic_hash": "dd6aa8d18556176cde5c79171cc33803"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/CLAUDE.md": {
+    "mtime": 1780267254.0658362,
+    "ast_hash": "d702dff4432ad56f312db0e15a5360e9",
+    "semantic_hash": "d702dff4432ad56f312db0e15a5360e9"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/CONTRIBUTING.md": {
+    "mtime": 1780120555.7993562,
+    "ast_hash": "ab6610602a6803fbdf1b6be96b9384d4",
+    "semantic_hash": "ab6610602a6803fbdf1b6be96b9384d4"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/DEV_WORKFLOW.md": {
+    "mtime": 1780120555.7994485,
+    "ast_hash": "0688ceca2c9d348f952cac8cbcd593ac",
+    "semantic_hash": "0688ceca2c9d348f952cac8cbcd593ac"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/README.md": {
+    "mtime": 1780120563.8096044,
+    "ast_hash": "0c912dbba416c2620e63d8a5a1e1bf8d",
+    "semantic_hash": "0c912dbba416c2620e63d8a5a1e1bf8d"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/pnpm-workspace.yaml": {
+    "mtime": 1780121706.131608,
+    "ast_hash": "666ed5d078f34e40ca71df28712b11a3",
+    "semantic_hash": "666ed5d078f34e40ca71df28712b11a3"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/REFACTOR.md": {
+    "mtime": 1780198584.3752031,
+    "ast_hash": "a07f85566d336e67ad8ec8b3814ec349",
+    "semantic_hash": "a07f85566d336e67ad8ec8b3814ec349"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/agent/README.md": {
+    "mtime": 1780098515.9981475,
+    "ast_hash": "4a09da59f9dd99cf964c7ade1b0b81a5",
+    "semantic_hash": "4a09da59f9dd99cf964c7ade1b0b81a5"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-pathfinder/.gitpod.yml": {
+    "mtime": 1780098520.4249775,
+    "ast_hash": "2299c2a825289936aaf1991c87304106",
+    "semantic_hash": "2299c2a825289936aaf1991c87304106"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-pathfinder/history.md": {
+    "mtime": 1780098520.4272022,
+    "ast_hash": "22f9d34a20ca60ae9c0e82123f83f938",
+    "semantic_hash": "22f9d34a20ca60ae9c0e82123f83f938"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-pathfinder/readme.md": {
+    "mtime": 1780098520.4284968,
+    "ast_hash": "e721084d3c771083fe9e0efe8085b5cc",
+    "semantic_hash": "e721084d3c771083fe9e0efe8085b5cc"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-pathfinder/.github/dependabot.yml": {
+    "mtime": 1780098520.4241428,
+    "ast_hash": "d9f9b768854c8e49aac3be65b39353ea",
+    "semantic_hash": "d9f9b768854c8e49aac3be65b39353ea"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-pathfinder/.github/workflows/ci.yml": {
+    "mtime": 1780098520.4247084,
+    "ast_hash": "6314e686c5a018e44e987feac7f95bdd",
+    "semantic_hash": "6314e686c5a018e44e987feac7f95bdd"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-pathfinder/.github/workflows/commands.yml": {
+    "mtime": 1780098520.4247997,
+    "ast_hash": "c4ab69af33e6155e263775c751cd8c62",
+    "semantic_hash": "c4ab69af33e6155e263775c751cd8c62"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-pathfinder/.github/workflows/npm-publish.yml": {
+    "mtime": 1780098520.4247997,
+    "ast_hash": "5e7386fbcf24d2f5d6b93a64602c21a4",
+    "semantic_hash": "5e7386fbcf24d2f5d6b93a64602c21a4"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-pathfinder/examples/tutorial/goalsExplained.md": {
+    "mtime": 1780098520.4272022,
+    "ast_hash": "13e782cfa12a96af46bc98754601abf7",
+    "semantic_hash": "13e782cfa12a96af46bc98754601abf7"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-test-suite/README.md": {
+    "mtime": 1780098521.0771418,
+    "ast_hash": "88330aab5ec40d0b1cf665e5d29189ec",
+    "semantic_hash": "88330aab5ec40d0b1cf665e5d29189ec"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-test-suite/FEATURE_TIMELINE.md": {
+    "mtime": 1780167386.5996644,
+    "ast_hash": "e9b5caf4509eacd912fb7e9be8fd1bb2",
+    "semantic_hash": "e9b5caf4509eacd912fb7e9be8fd1bb2"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-test-suite/EDITOR.md": {
+    "mtime": 1780189115.7193794,
+    "ast_hash": "dce91035567448b9e566da28cdd968f5",
+    "semantic_hash": "dce91035567448b9e566da28cdd968f5"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/mineflayer-test-suite/ui/index.html": {
+    "mtime": 1780104968.067724,
+    "ast_hash": "26a0b0690503795efa8d1f63e593767b",
+    "semantic_hash": "26a0b0690503795efa8d1f63e593767b"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/.gitpod.yml": {
+    "mtime": 1780098522.625871,
+    "ast_hash": "8def5d3a4e053bda783c407f93db17eb",
+    "semantic_hash": "8def5d3a4e053bda783c407f93db17eb"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/HISTORY.md": {
+    "mtime": 1780098522.6259623,
+    "ast_hash": "b9a27b95598f8e1a09369ec3fadd25c7",
+    "semantic_hash": "b9a27b95598f8e1a09369ec3fadd25c7"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/README.md": {
+    "mtime": 1780098522.6261663,
+    "ast_hash": "04796a988b3b97b48d0307db90297690",
+    "semantic_hash": "04796a988b3b97b48d0307db90297690"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/.github/dependabot.yml": {
+    "mtime": 1780098522.6241395,
+    "ast_hash": "da35650eba2ab821f77e80f36f5c18c6",
+    "semantic_hash": "da35650eba2ab821f77e80f36f5c18c6"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/.github/workflows/ci.yml": {
+    "mtime": 1780098522.6255312,
+    "ast_hash": "fa8184e1c9a95647f25673db52cb2200",
+    "semantic_hash": "fa8184e1c9a95647f25673db52cb2200"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/.github/workflows/commands.yml": {
+    "mtime": 1780098522.6256356,
+    "ast_hash": "c534263fcd43c776e7c58eb936710bcc",
+    "semantic_hash": "c534263fcd43c776e7c58eb936710bcc"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/.github/workflows/publish.yml": {
+    "mtime": 1780098522.6256356,
+    "ast_hash": "dbb54b74fc43ab014942357dfa982a14",
+    "semantic_hash": "dbb54b74fc43ab014942357dfa982a14"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/examples/electron/client/index.html": {
+    "mtime": 1780098522.6268425,
+    "ast_hash": "9d09fcb167349d1f96b4bae4a565ea51",
+    "semantic_hash": "9d09fcb167349d1f96b4bae4a565ea51"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/examples/exporter/README.md": {
+    "mtime": 1780098522.627413,
+    "ast_hash": "29ebb545fe8d744fcb0d274173e0508b",
+    "semantic_hash": "29ebb545fe8d744fcb0d274173e0508b"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/examples/standalone/README.md": {
+    "mtime": 1780098522.6281147,
+    "ast_hash": "59db9152efdb67f7d4b42e7ba9376459",
+    "semantic_hash": "59db9152efdb67f7d4b42e7ba9376459"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/examples/standalone/public/index.html": {
+    "mtime": 1780098522.6283014,
+    "ast_hash": "bdd378a72fe9cb5dd23da4ec39fea3ea",
+    "semantic_hash": "bdd378a72fe9cb5dd23da4ec39fea3ea"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/examples/web_client/README.md": {
+    "mtime": 1780098522.6286745,
+    "ast_hash": "59db9152efdb67f7d4b42e7ba9376459",
+    "semantic_hash": "59db9152efdb67f7d4b42e7ba9376459"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/examples/web_client/index.html": {
+    "mtime": 1780098522.628822,
+    "ast_hash": "bdd378a72fe9cb5dd23da4ec39fea3ea",
+    "semantic_hash": "bdd378a72fe9cb5dd23da4ec39fea3ea"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/index.html": {
+    "mtime": 1780098522.6297772,
+    "ast_hash": "bdd378a72fe9cb5dd23da4ec39fea3ea",
+    "semantic_hash": "bdd378a72fe9cb5dd23da4ec39fea3ea"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/index.js.LICENSE.txt": {
+    "mtime": 1780098522.6321397,
+    "ast_hash": "ba64c0b37192961663cb6fdd601b61c7",
+    "semantic_hash": "ba64c0b37192961663cb6fdd601b61c7"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/public/worker.js.LICENSE.txt": {
+    "mtime": 1780098522.8551393,
+    "ast_hash": "9cb68f6566b71048c5f089c8826dc834",
+    "semantic_hash": "9cb68f6566b71048c5f089c8826dc834"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/packages/prismarine-viewer/viewer/README.md": {
+    "mtime": 1780098522.8568075,
+    "ast_hash": "1e3b0038708adc7460a798291f9e5e19",
+    "semantic_hash": "1e3b0038708adc7460a798291f9e5e19"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/.github/workflows/ci.yml": {
+    "mtime": 1780120555.7670217,
+    "ast_hash": "457c5ff37738b04fc7868e8b51f64a51",
+    "semantic_hash": "457c5ff37738b04fc7868e8b51f64a51"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/.claude/CLAUDE.md": {
+    "mtime": 1780267254.0654428,
+    "ast_hash": "db73b0edd7ffbc61ceac177130730865",
+    "semantic_hash": "db73b0edd7ffbc61ceac177130730865"
+  },
+  "/home/atran/Documents/Projects/bedwars-agents/.claude/skills/graphify/SKILL.md": {
+    "mtime": 1780267254.0650582,
+    "ast_hash": "5ae00786ea53e4d944ab70abe11eedd1",
+    "semantic_hash": "5ae00786ea53e4d944ab70abe11eedd1"
+  }
+}

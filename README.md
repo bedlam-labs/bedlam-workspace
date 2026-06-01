@@ -10,8 +10,6 @@ This project puts multiple LLM-driven agents into a competitive Minecraft Bedwar
 
 The goal is not to build the best Bedwars bot. The goal is to use Bedwars as a research environment to ask harder questions about how language models behave under competitive pressure.
 
----
-
 ## Getting Started
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for setup instructions and [DEV_WORKFLOW.md](DEV_WORKFLOW.md) for development workflow.
